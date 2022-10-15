@@ -1,0 +1,6 @@
+[submodule "msg-frontend"]
+	path = msg-frontend
+	url = git@github.com:calhacks-22/msg-frontend.git
+[submodule "chx-backend"]
+	path = chx-backend
+	url = git@github.com:calhacks-22/chx-backend.git
